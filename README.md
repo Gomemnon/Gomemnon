@@ -47,7 +47,7 @@
       <td><img src="https://img.shields.io/badge/lib-Pandas-130654?logo=pandas" alt=Pandas height="25"></td>
       <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height='25'/><img src="https://img.shields.io/badge/graph-Seaborn-444876?" alt=Seaborn height="25"></td>
       <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/86968a53f57582eae662868d02b033c748652851/vscode.svg" height="25"'/><img src="https://img.shields.io/badge/API-VS%20Code-24abf2?" alt=VSCode height="25"></td>
-      <td><img src="https://github.com/Gomemnon/Gomemnon/blob/main/optuna.png?raw=true" width='20px'/><img src="https://img.shields.io/badge/Optuna-000000?" alt=Optuna width="100"></td>
+      <td><img src="https://github.com/Gomemnon/Gomemnon/blob/main/optuna.png?raw=true" height="25"/><img src="https://img.shields.io/badge/fw-Optuna-085295?" alt=Optuna height="25"></td>
    </tr>
    
    <tr align='center', valign='middle'> <!--строка 3-->
