@@ -26,23 +26,23 @@
 
 <!--Таблицы навыков-->
 <table align='center'> 
-   <tr align='center', valign='middle'> 
-      <th>Code</th>
+   <tr align='center', valign='middle'>  <!--строка 0-->
+      <th>Code</th> 
       <th>Работа с данными и статистика</th>
       <th>Графики и диаграммы</th>
       <th>Рабочая среда</th>
       <th>Машинное обучение</th>
    </tr>
    
-   <tr align='center', valign='middle'>
+   <tr align='center', valign='middle'> <!--строка 1-->
       <td><img src="https://img.shields.io/badge/Code-Python%203-015482?logo=python" alt=Python height="25"></td>
       <td><img src="https://img.shields.io/badge/lib-NumPy-015482?logo=numpy" alt=NumPy height="25"></td>
       <td><img src="https://img.shields.io/badge/graph-Plotly-ed417c?logo=Plotly" alt=Plotly height="25"></td>
       <td><img src="https://img.shields.io/badge/Notebook-Jupiter-f37726?logo=jupyter" alt=Jupyter height="25"></td>
-      <td><img src="https://img.shields.io/badge/scikit--learn-000000?logo=scikitlearn" alt=sclearn width="120"></td>
+      <td><img src="https://img.shields.io/badge/ML-scikit--learn-f89939?logo=scikitlearn" alt=sclearn height="25"></td>
    </tr>
    
-   <tr align='center', valign='middle'>
+   <tr align='center', valign='middle'> <!--строка 2-->
       <td></td>
       <td><img src="https://img.shields.io/badge/lib-Pandas-130654?logo=pandas" alt=Pandas height="25"></td>
       <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height='25'/><img src="https://img.shields.io/badge/graph-Seaborn-444876?" alt=Seaborn height="25"></td>
@@ -50,22 +50,22 @@
       <td><img src="https://github.com/Gomemnon/Gomemnon/blob/main/optuna.png?raw=true" width='20px'/><img src="https://img.shields.io/badge/Optuna-000000?" alt=Optuna width="100"></td>
    </tr>
    
-   <tr align='center', valign='middle'>
+   <tr align='center', valign='middle'> <!--строка 3-->
       <td></td>
       <td><img src="https://img.shields.io/badge/lib-SciPy-013243?logo=SciPy" alt=SciPy height="25"></td>
       <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/c2c01041c418984c5cde7bdf5d1250946a032de0/Matplotlib_icon.svg" height="25"'/><img src="https://img.shields.io/badge/graph-Matplotlib-65baea?" alt=Matplotlib height="25"></td>
-      <td><img src="https://img.shields.io/badge/Obsidian-000000?logo=obsidian" width="80"></td>
+      <td><img src="https://img.shields.io/badge/Notes-Obsidian-a88bfa?logo=obsidian" height="25"></td>
       <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/c2c01041c418984c5cde7bdf5d1250946a032de0/statsmodels-logo-v2-horizontal.svg" width='100px'/></td>
    </tr>
    
-   <tr align='center', valign='middle'>
+   <tr align='center', valign='middle'> <!--строка 4-->
       <td></td>
       <td><img src="https://img.shields.io/badge/SQL-PostgreSQL-689fc8?logo=postgresql" height="25"></td>
       <td></td>
       <td></td>
       <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="18px"/><img src="https://img.shields.io/badge/pytorch-000000?" width="80"></td>
    </tr>
-   <tr align='center', valign='middle'>
+   <tr align='center', valign='middle'> <!--строка 5-->
       <td></td>
       <td><img src="https://img.shields.io/badge/fw-PySpark-e85c1c?logo=apachespark" alt=PySpark height="25"></td>
       <td></td>
@@ -73,7 +73,7 @@
       <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="18px"/><img src="https://img.shields.io/badge/tensorflow-000000?" alt=tensorflow width="80"></td>
    </tr>
    
-   <tr align='center', valign='middle'>
+   <tr align='center', valign='middle'> <!--строка 6-->
       <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1YnlnY3lwZWZxNmpmZXE5YXJpaTRoNjA5Mmh4YzZwOG4zZGI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xad9V0mE1nGygEmbT/giphy.gif" width='50px'></td>
       <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1YnlnY3lwZWZxNmpmZXE5YXJpaTRoNjA5Mmh4YzZwOG4zZGI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xad9V0mE1nGygEmbT/giphy.gif" width='50px'></td>
       <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1YnlnY3lwZWZxNmpmZXE5YXJpaTRoNjA5Mmh4YzZwOG4zZGI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xad9V0mE1nGygEmbT/giphy.gif" width='50px'></td>
