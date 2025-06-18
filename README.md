@@ -72,14 +72,6 @@
       <td></td>
       <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="22"/><img src="https://img.shields.io/badge/Tensor-Flow-ff8200?" alt=tensorflow height="22"></td>
    </tr>
-   
-   <tr align='center', valign='middle'> <!--строка 6-->
-      <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1YnlnY3lwZWZxNmpmZXE5YXJpaTRoNjA5Mmh4YzZwOG4zZGI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xad9V0mE1nGygEmbT/giphy.gif" height='50'></td>
-      <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1YnlnY3lwZWZxNmpmZXE5YXJpaTRoNjA5Mmh4YzZwOG4zZGI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xad9V0mE1nGygEmbT/giphy.gif" height='50'></td>
-      <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1YnlnY3lwZWZxNmpmZXE5YXJpaTRoNjA5Mmh4YzZwOG4zZGI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xad9V0mE1nGygEmbT/giphy.gif" height='50'></td>
-      <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1YnlnY3lwZWZxNmpmZXE5YXJpaTRoNjA5Mmh4YzZwOG4zZGI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xad9V0mE1nGygEmbT/giphy.gif" height='50'></td>
-      <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1YnlnY3lwZWZxNmpmZXE5YXJpaTRoNjA5Mmh4YzZwOG4zZGI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xad9V0mE1nGygEmbT/giphy.gif" height='50'></td>
-   </tr>
 </table>
 
 
