@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css"><![CDATA[ #rotated-img { transform: rotate(90deg); } ]]></style>
+  </defs>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <img id="rotated-img" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxpeHVzMjM0a2QyNnVtM3Y1cjRsdHVxdXpyZDUxdjYweGg1bzRqYiZlcD12MV9pntmVrbiUwLV9pbmtlcl9naWZmX2J5X2lpJCZnY3Q9Yw/ascvnkRZCpyvabS3zg/giphy.gif"/>
+  </foreignObject>
+</svg>
