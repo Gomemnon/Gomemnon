@@ -9,8 +9,8 @@
 <!-- Ссылки на профили-->
 <h2 align="left">Мои профили:</h2>
 
-<a href="https://kaggle.com/primgk" target="blank"><img align="center" src="https://img.shields.io/badge/Profile-Kaggle-015482?logo=kaggle" alt="primgk" height="40" /></a>
-<a href="https://www.researchgate.net/profile/German-Primachenko" target="blank"><img align="center" src="https://img.shields.io/badge/Research-Gate-137e6d?logo=researchgate" alt="primgk" height="40"/></a>
+<a href="https://kaggle.com/primgk" target="blank"><img align="center" src="https://img.shields.io/badge/Profile-Kaggle-015482?logo=kaggle" alt="primgk" height="25" /></a>
+<a href="https://www.researchgate.net/profile/German-Primachenko" target="blank"><img align="center" src="https://img.shields.io/badge/Research-Gate-137e6d?logo=researchgate" alt="primgk" height="25"/></a>
 
 <!--Ссылка на статистику профиля github-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&locale=en" alt="gomemnon" width='44.4%'/></p>
@@ -35,39 +35,39 @@
    </tr>
    
    <tr align='center', valign='middle'>
-      <td><img src="https://img.shields.io/badge/Code-Python%203-015482?logo=python" alt=Python height="30"></td>
-      <td><img src="https://img.shields.io/badge/lib-NumPy-015482?logo=numpy" alt=NumPy height="30"></td>
-      <td><img src="https://img.shields.io/badge/Plotly-000000?logo=Plotly" alt=Plotly width="80"></td>
-      <td><img src="https://img.shields.io/badge/Jupiter%20Notebook-000000?logo=jupyter" alt=Jupyter width="170"></td>
+      <td><img src="https://img.shields.io/badge/Code-Python%203-015482?logo=python" alt=Python height="25"></td>
+      <td><img src="https://img.shields.io/badge/lib-NumPy-015482?logo=numpy" alt=NumPy height="25"></td>
+      <td><img src="https://img.shields.io/badge/graph-Plotly-ed417c?logo=Plotly" alt=Plotly height="25"></td>
+      <td><img src="https://img.shields.io/badge/Notebook-Jupiter-f37726?logo=jupyter" alt=Jupyter height="25"></td>
       <td><img src="https://img.shields.io/badge/scikit--learn-000000?logo=scikitlearn" alt=sclearn width="120"></td>
    </tr>
    
    <tr align='center', valign='middle'>
       <td></td>
-      <td><img src="https://img.shields.io/badge/lib-Pandas-130654?logo=pandas" alt=Pandas height="30"></td>
-      <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width='18px'/><img src="https://img.shields.io/badge/Seaborn-000000?" alt=Seaborn width="100"></td>
-      <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/86968a53f57582eae662868d02b033c748652851/vscode.svg" width='18px'/><img src="https://img.shields.io/badge/VS%20Code-000000?" alt=VSCode width="100"></td>
+      <td><img src="https://img.shields.io/badge/lib-Pandas-130654?logo=pandas" alt=Pandas height="25"></td>
+      <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height='25'/><img src="https://img.shields.io/badge/graph-Seaborn-444876?" alt=Seaborn height="25"></td>
+      <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/86968a53f57582eae662868d02b033c748652851/vscode.svg" height="25"'/><img src="https://img.shields.io/badge/API-VS%20Code-24abf2?" alt=VSCode height="25"></td>
       <td><img src="https://github.com/Gomemnon/Gomemnon/blob/main/optuna.png?raw=true" width='20px'/><img src="https://img.shields.io/badge/Optuna-000000?" alt=Optuna width="100"></td>
    </tr>
    
    <tr align='center', valign='middle'>
       <td></td>
-      <td><img src="https://img.shields.io/badge/lib-SciPy-013243?logo=SciPy" alt=SciPy height="30"></td>
-      <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/c2c01041c418984c5cde7bdf5d1250946a032de0/Matplotlib_icon.svg" width='18px'/><img src="https://img.shields.io/badge/Matplotlib-000000?" alt=Matplotlib width="80"></td>
+      <td><img src="https://img.shields.io/badge/lib-SciPy-013243?logo=SciPy" alt=SciPy height="25"></td>
+      <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/c2c01041c418984c5cde7bdf5d1250946a032de0/Matplotlib_icon.svg" height="25"'/><img src="https://img.shields.io/badge/graph-Matplotlib-65baea?" alt=Matplotlib height="25"></td>
       <td><img src="https://img.shields.io/badge/Obsidian-000000?logo=obsidian" width="80"></td>
       <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/c2c01041c418984c5cde7bdf5d1250946a032de0/statsmodels-logo-v2-horizontal.svg" width='100px'/></td>
    </tr>
    
    <tr align='center', valign='middle'>
       <td></td>
-      <td><img src="https://img.shields.io/badge/SQL-PostgreSQL-689fc8?logo=postgresql" height="30"></td>
+      <td><img src="https://img.shields.io/badge/SQL-PostgreSQL-689fc8?logo=postgresql" height="25"></td>
       <td></td>
       <td></td>
       <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="18px"/><img src="https://img.shields.io/badge/pytorch-000000?" width="80"></td>
    </tr>
    <tr align='center', valign='middle'>
       <td></td>
-      <td><img src="https://img.shields.io/badge/PySpark-000000?logo=apachespark" alt=PySpark width="80"></td>
+      <td><img src="https://img.shields.io/badge/fw-PySpark-e85c1c?logo=apachespark" alt=PySpark height="25"></td>
       <td></td>
       <td></td>
       <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="18px"/><img src="https://img.shields.io/badge/tensorflow-000000?" alt=tensorflow width="80"></td>
