@@ -39,7 +39,7 @@
       <td><img src="https://img.shields.io/badge/lib-NumPy-015482?logo=numpy" alt=NumPy height="25"></td>
       <td><img src="https://img.shields.io/badge/graph-Plotly-ed417c?logo=Plotly" alt=Plotly height="25"></td>
       <td><img src="https://img.shields.io/badge/Notebook-Jupiter-f37726?logo=jupyter" alt=Jupyter height="25"></td>
-      <td><img src="https://img.shields.io/badge/ML-scikit--learn-f89939?logo=scikitlearn" alt=sclearn height="25"></td>
+      <td><img src="https://img.shields.io/badge/Scikit-Learn-f89939?logo=scikitlearn" alt=sclearn height="25"></td>
    </tr>
    
    <tr align='center', valign='middle'> <!--строка 2-->
@@ -53,9 +53,9 @@
    <tr align='center', valign='middle'> <!--строка 3-->
       <td></td>
       <td><img src="https://img.shields.io/badge/lib-SciPy-013243?logo=SciPy" alt=SciPy height="25"></td>
-      <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/c2c01041c418984c5cde7bdf5d1250946a032de0/Matplotlib_icon.svg" height="25"'/><img src="https://img.shields.io/badge/graph-Matplotlib-65baea?" alt=Matplotlib height="25"></td>
+      <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/c2c01041c418984c5cde7bdf5d1250946a032de0/Matplotlib_icon.svg" height="25"/><img src="https://img.shields.io/badge/graph-Matplotlib-65baea?" alt=Matplotlib height="25"></td>
       <td><img src="https://img.shields.io/badge/Notes-Obsidian-a88bfa?logo=obsidian" height="25"></td>
-      <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/c2c01041c418984c5cde7bdf5d1250946a032de0/statsmodels-logo-v2-horizontal.svg" width='100px'/></td>
+      <td><img src="https://raw.githubusercontent.com/Gomemnon/Gomemnon/b389c1cbfad6abd1b5ae7cf160d98d84f20b0fe9/statsmodels-logo.svg" height="25"/><img src="https://img.shields.io/badge/Stats-Models-4051b5?" alt=statsmodels height="25"></td>
    </tr>
    
    <tr align='center', valign='middle'> <!--строка 4-->
@@ -63,14 +63,14 @@
       <td><img src="https://img.shields.io/badge/SQL-PostgreSQL-689fc8?logo=postgresql" height="25"></td>
       <td></td>
       <td></td>
-      <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="18px"/><img src="https://img.shields.io/badge/pytorch-000000?" width="80"></td>
+      <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="25"/><img src="https://img.shields.io/badge/Py-Torch-f94e2d?" height="25"></td>
    </tr>
    <tr align='center', valign='middle'> <!--строка 5-->
       <td></td>
       <td><img src="https://img.shields.io/badge/fw-PySpark-e85c1c?logo=apachespark" alt=PySpark height="25"></td>
       <td></td>
       <td></td>
-      <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="18px"/><img src="https://img.shields.io/badge/tensorflow-000000?" alt=tensorflow width="80"></td>
+      <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="25"/><img src="https://img.shields.io/badge/Tensor-Flow-ff8200?" alt=tensorflow height="25"></td>
    </tr>
    
    <tr align='center', valign='middle'> <!--строка 6-->
@@ -81,3 +81,5 @@
       <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1YnlnY3lwZWZxNmpmZXE5YXJpaTRoNjA5Mmh4YzZwOG4zZGI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xad9V0mE1nGygEmbT/giphy.gif" width='50px'></td>
    </tr>
 </table>
+
+
