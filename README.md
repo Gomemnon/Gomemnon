@@ -9,10 +9,6 @@
 <!-- Ссылки на профили-->
 <h2 align="left">Мои профили:</h2>
 
-- <a href="https://kaggle.com/primgk" target="blank"><img align="center" src="https://img.shields.io/badge/Profile-Kaggle-015482?logo=kaggle" alt="primgk" height="25" /></a>
-
-- <a href="https://www.researchgate.net/profile/German-Primachenko" target="blank"><img align="center" src="https://img.shields.io/badge/Research-Gate-137e6d?logo=researchgate" alt="primgk" height="25"/></a>
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&theme=github_dark"
@@ -22,9 +18,19 @@
     srcset="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&theme=swift"
     media="(prefers-color-scheme: swift)"
   />
-  <img align="center" width="44.4%" src="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&theme=github_dark" />
+  <img align="right" width="44.4%" src="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&theme=github_dark" />
 </picture>
 
+- <a href="https://kaggle.com/primgk" target="blank"><img align="center" src="https://img.shields.io/badge/Profile-Kaggle-015482?logo=kaggle" alt="primgk" height="25" /></a>
+
+- <a href="https://www.researchgate.net/profile/German-Primachenko" target="blank"><img align="center" src="https://img.shields.io/badge/Research-Gate-137e6d?logo=researchgate" alt="primgk" height="25"/></a>
+
+
+![](# "hiding row")
+
+![](# "hiding row")
+
+![](# "hiding row")
 
 
 <h2 align="center">
