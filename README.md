@@ -9,20 +9,30 @@
 <!-- Ссылки на профили-->
 <h2 align="left">Мои профили:</h2>
 
-<a href="https://kaggle.com/primgk" target="blank"><img align="center" src="https://img.shields.io/badge/Profile-Kaggle-015482?logo=kaggle" alt="primgk" height="25" /></a>
-<a href="https://www.researchgate.net/profile/German-Primachenko" target="blank"><img align="center" src="https://img.shields.io/badge/Research-Gate-137e6d?logo=researchgate" alt="primgk" height="25"/></a>
+- <a href="https://kaggle.com/primgk" target="blank"><img align="center" src="https://img.shields.io/badge/Profile-Kaggle-015482?logo=kaggle" alt="primgk" height="25" /></a>
 
-<!--Ссылка на статистику профиля github-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&locale=en" alt="gomemnon" width='44.4%'/></p>
+- <a href="https://www.researchgate.net/profile/German-Primachenko" target="blank"><img align="center" src="https://img.shields.io/badge/Research-Gate-137e6d?logo=researchgate" alt="primgk" height="25"/></a>
 
-<!--Раздел с навыками-->
-<div align="center" style="text-align: left;">
-   <h2>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRmdnlucTJuMWswbTV1bmo5YWVvMmV2cGk5aGxrZW8xODUxaXYxdCZlcD12MV9pynRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
-      Навыки 
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRmdnlucTJuMWswbTV1bmo5YWVvMmV2cGk5aGxrZW8xODUxaXYxdCZlcD12MV9pynRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
-   </h2>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&theme=github_dark"
+    media="(prefers-color-scheme: github_dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&theme=swift"
+    media="(prefers-color-scheme: swift)"
+  />
+  <img align="center" width="44.4%" src="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&theme=github_dark" />
+</picture>
+
+
+
+<h2 align="center">
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRmdnlucTJuMWswbTV1bmo5YWVvMmV2cGk5aGxrZW8xODUxaXYxdCZlcD12MV9pynRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+   Навыки 
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRmdnlucTJuMWswbTV1bmo5YWVvMmV2cGk5aGxrZW8xODUxaXYxdCZlcD12MV9pynRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+</h2>
+
 
 <!--Таблицы навыков-->
 <table align='center'> 
