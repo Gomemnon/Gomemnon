@@ -12,13 +12,13 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&theme=github_dark"
-    media="(prefers-color-scheme: github_dark)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&theme=swift"
-    media="(prefers-color-scheme: swift)"
+    media="(prefers-color-scheme: light)"
   />
-  <img align="right" width="44.4%" src="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true&theme=github_dark" />
+  <img align="right" width="44.4%" src="https://github-readme-stats.vercel.app/api?username=gomemnon&show_icons=true"/>
 </picture>
 
 - <a href="https://kaggle.com/primgk" target="blank"><img align="center" src="https://img.shields.io/badge/Profile-Kaggle-015482?logo=kaggle" alt="primgk" height="25" /></a>
